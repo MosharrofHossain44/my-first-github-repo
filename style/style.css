@@ -1,0 +1,10 @@
+.block{
+    background-color: aquamarine;
+    margin: 20px;
+    padding: 10px;
+    box-shadow: 15px 17px 9px;
+}
+
+h3{
+    background-color: tomato;
+}
